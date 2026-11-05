@@ -362,6 +362,7 @@ div#bg-1-5{
 .face {
 
   animation: face 5s infinite;
+  margin-left: 400px;
 
 }
 @keyframes face {
